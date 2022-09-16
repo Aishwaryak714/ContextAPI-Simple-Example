@@ -10,7 +10,7 @@ function App() {
   
   return (
     <div className="App">
-      <h3>Context API Examples</h3>
+      <h3>Context API Example</h3>
       <div style={{border:'1px solid',marginLeft:'480px',marginRight:'480px'}}>
       <div>{count}</div>
       <br/>
